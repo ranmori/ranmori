@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NaemaMo
 - 👀 I’m interested in full stack web development,Design.Illustrations and Digital Painting
-- 🌱 I’m currently learning React Js
+- 🌱 I’m currently learning Node Js
 - 💞️ I’m looking to collaborate on projects that help me grow
 
 
