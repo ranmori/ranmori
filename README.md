@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @NaemaMo
-- 👀  passionate about full stack,Design.Illustrations and Digital Painting
+  
+- 👀  a full-stack developer
+- ✨ i create desktop apps to stay consistent
 - 🌱 I’m currently learning postSQL 
 - 💞️ I’m looking to collaborate on projects that help me grow
+- 💚 on my spare time i paint
+
 
 
 <!---
