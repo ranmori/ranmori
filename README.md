@@ -1,8 +1,8 @@
 # 💫 About Me:
 - 👋 Hi, I’m @NaemaMo<br>
-- <br>- 👀  a full-stack developer<br>
+- 👀 a full-stack developer<br>
 - ✨ i create desktop apps to stay consistent<br>
-- 🌱 I’m currently learning SASS<br>
+- 🌱 I’m currently learning Flutter<br>
 - 💞️ I’m looking to collaborate on projects that help me grow<br>
 - 💚 on my spare time I paint
 
