@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @NaemaMo<br>
+- 👋 Hi, I’m @Naema Mohamed<br>
 - 👀 a full-stack developer<br>
 - ✨ i create desktop apps to stay consistent<br>
 - 🌱 I’m currently learning Flutter<br>
