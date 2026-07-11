@@ -1,16 +1,30 @@
-# Naema Mohmed Farah
+<div align="center">
+  <img src="naema-pixel-avatar.png" width="120" height="120" alt="Naema pixel avatar" style="image-rendering: pixelated;" />
+ <img src="naema-pixel-avatar.png" width="120" height="120" alt="Naema pixel avatar" style="image-rendering: pixelated;" />
+  <h1>Naema Mohmed Farah</h1>
+  <p><strong>Full-Stack Software Engineer</strong> Open to Relocation</p>
 
-**Full-Stack Software Engineer** · Nairobi, Kenya · Open to Relocation
-<img src="naema-pixel-avatar.png" width="120" height="120" alt="Naema Mohmed" style="image-rendering: pixelated;" />
-Sole engineer on [Planno](https://github.com/ranmori) — a production workforce management SaaS serving 350+ field staff across European security teams. Built the entire stack: Flutter mobile (iOS & Android), React/Next.js dashboard, Node.js REST API, real-time WebSocket notifications, GPS geofencing, GDPR compliance, and multi-tenant architecture — from blank repo to live product in five months.
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naema-m-36aa01310)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://portfolio-seven-pi-11.vercel.app)
+  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naemamohmed348@gmail.com)
+</div>
+
+---
+
+Sole engineer on **Planno** — a production workforce management SaaS serving 350+ field staff across European security teams. Built the entire stack unassisted: Flutter mobile (iOS & Android), React/Next.js dashboard, Node.js REST API, real-time WebSockets, GPS geofencing, GDPR compliance, and multi-tenant architecture — from blank repo to live product in five months.
+
+Former clinical dentist (BDS First Class Honours, GPA 3.75). Precision and structured reasoning under pressure transfer directly into software.
 
 ---
 
 ## What I'm building
 
-- **Planno** — Multi-tenant workforce management SaaS (Node.js · TypeScript · PostgreSQL · Flutter · Docker)
-- **GoQueue** — Production-grade background job processor in Go with worker pools, exponential backoff retries, and graceful shutdown
-- **Guardian** — AI personal safety app, Kaggle × Google Gemma 4 Hackathon (1,613 teams · 14,523 entrants) · [Live](https://echoxgemma.live)
+| Project | What it does | Stack |
+|---|---|---|
+| **Planno** | Live workforce SaaS — 350+ users, GPS clock-in, shift scheduling, German labour law compliance | Node.js · TypeScript · PostgreSQL · Flutter |
+| **[Guardian](https://github.com/estheticallybawo/echo)** | Audio distress detection · agentic emergency alerts · multilingual · RAVDESS-validated · [echoxgemma.live](https://echoxgemma.live) | Gemma 4 · Flutter · Firebase |
+| **GoQueue** | Production-grade background job processor — concurrent worker pools, exponential backoff retries, priority lanes | Go |
+| **[DocuMind](https://github.com/ranmori)** | RAG document intelligence — Google Drive, Dropbox, Notion, Confluence import · vector search | Next.js · Pinecone · Neon |
 
 ---
 
@@ -19,31 +33,28 @@ Sole engineer on [Planno](https://github.com/ranmori) — a production workforce
 ```
 Languages    TypeScript · Go · JavaScript · Python · Dart · SQL
 Frontend     React · Next.js · Flutter · Tailwind CSS
-Backend      Node.js · Express · Go net/http · REST · WebSockets · JWT
+Backend      Node.js · Express · Go net/http · REST APIs · WebSockets · JWT
 Databases    PostgreSQL · MongoDB · Prisma ORM
-AI/ML        Gemma 4 · Gemini API · RAG · Agentic function calling
+AI / ML      Gemma 4 · Gemini API · RAG pipelines · Agentic function calling
 Infra        Docker · CI/CD · GDPR · GPS Geofencing · Firebase · Supabase
 ```
 
 ---
 
-## Selected projects
+## GitHub stats
 
-| Project | What it does | Stack |
-|---|---|---|
-| [Planno](https://github.com/ranmori) | Live workforce SaaS — 350+ users, GPS clock-in, shift scheduling, German labour law compliance | Node.js · Flutter · PostgreSQL |
-| [Guardian](https://github.com/estheticallybawo/echo) | Audio distress detection · agentic emergency alerts · multilingual · RAVDESS-validated | Gemma 4 · Flutter · Firebase |
-| [DocuMind](https://github.com/ranmori) | RAG document intelligence — Google Drive, Dropbox, Notion, Confluence import | Next.js · Pinecone · Neon |
-| [GoQueue](https://github.com/ranmori) | Background job processor — concurrent workers, retries, priority lanes, REST API | Go |
+<div align="center">
 
----
+![](https://github-readme-stats.vercel.app/api?username=ranmori&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
 
-## Background
+![](https://nirzak-streak-stats.vercel.app/?user=ranmori&theme=transparent&hide_border=true)
 
-Former clinical dentist (BDS First Class Honours, GPA 3.75) — precision and structured reasoning under pressure transfer directly. Multilingual: English · Arabic · Somali · Turkish.
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ranmori&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/naema-m-36aa01310)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-seven-pi-11.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:naemamohmed348@gmail.com)
+<div align="center">
+  <sub>Multilingual: English · Arabic · Somali · Turkish · On my spare time, I paint 🎨</sub>
+</div>
