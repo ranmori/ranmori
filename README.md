@@ -21,10 +21,10 @@ Former clinical dentist (BDS First Class Honours, GPA 3.75). Precision and struc
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[Planno](((https://github.com/plannoo)))** | Live workforce SaaS — 350+ users, GPS clock-in, shift scheduling, German labour law compliance | Node.js · TypeScript · PostgreSQL · Flutter |
+| **[Planno]((https://github.com/plannoo))** | Live workforce SaaS — 350+ users, GPS clock-in, shift scheduling, German labour law compliance | Node.js · TypeScript · PostgreSQL · Flutter |
 | **[ECHO]((https://github.com/ranmori/ECHO))** | Audio distress detection · agentic emergency alerts · multilingual · RAVDESS-validated · [echoxgemma.live](https://echoxgemma.live) | Gemma 4 · Flutter · Firebase |
 | **GoQueue** | Production-grade background job processor — concurrent workers, exponential backoff, priority lanes | Go |
-| **[DocuMind](https://github.com/ranmori)** | RAG document intelligence — Google Drive, Dropbox, Notion, Confluence import | Next.js · Pinecone · Neon |
+| **[DocuMind]https://github.com/ranmori)** | RAG document intelligence — Google Drive, Dropbox, Notion, Confluence import | Next.js · Pinecone · Neon |
 
 ---
 
