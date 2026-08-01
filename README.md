@@ -11,7 +11,7 @@
 
 ---
 
-Sole engineer on **Planno** — a production workforce management SaaS serving 350+ field staff across European security teams. Built the entire stack unassisted: Flutter mobile (iOS & Android), React/Next.js dashboard, Node.js REST API, real-time WebSockets, GPS geofencing, GDPR compliance, and multi-tenant architecture — from blank repo to live product in five months.
+Sole engineer on **Planno**, a multi-tenant workforce management SaaS built under contract for Square Security, serving 350+ field staff. Built the entire stack unassisted: Flutter mobile (iOS & Android), React/Next.js dashboard, Node.js REST API, real-time WebSockets, GPS geofencing, GDPR compliance, and tenant isolation — from blank repo to live product in five months.
 
 Former clinical dentist (BDS First Class Honours, GPA 3.75). Precision and structured reasoning under pressure transfer directly into software. On my spare time, I paint 🎨
 
