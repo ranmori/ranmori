@@ -69,6 +69,8 @@ Former clinical dentist (BDS First Class Honours, GPA 3.75). Precision and struc
 
 </div>
 
+[![Naema's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ranmori&theme=react-dark)](https://github.com/ranmori)
+
 ---
 
 <div align="center">
