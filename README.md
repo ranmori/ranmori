@@ -11,7 +11,7 @@
 
 ---
 
-Sole engineer on **Planno**, a multi-tenant workforce management SaaS built under contract for Square Security, serving 350+ field staff. Built the entire stack unassisted: Flutter mobile (iOS & Android), React/Next.js dashboard, Node.js REST API, real-time WebSockets, GPS geofencing, GDPR compliance, and tenant isolation — from blank repo to live product in five months.
+Sole engineer on **Wrenta**, a multi-tenant workforce management SaaS built under contract for Square Security, serving 350+ field staff. Built the entire stack unassisted: Flutter mobile (iOS & Android), React/Next.js dashboard, Node.js REST API, real-time WebSockets, GPS geofencing, GDPR compliance, and tenant isolation — from blank repo to live product in five months.
 
 Former clinical dentist (BDS First Class Honours, GPA 3.75). Precision and structured reasoning under pressure transfer directly into software. On my spare time, I paint 🎨
 
@@ -21,7 +21,7 @@ Former clinical dentist (BDS First Class Honours, GPA 3.75). Precision and struc
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[Planno]((https://github.com/plannoo))** | Live workforce SaaS — 350+ users, GPS clock-in, shift scheduling, German labour law compliance | Node.js · TypeScript · PostgreSQL · Flutter |
+| **[Wrenta]((https://github.com/plannoo))** | Live workforce SaaS — 350+ users, GPS clock-in, shift scheduling, German labour law compliance | Node.js · TypeScript · PostgreSQL · Flutter |
 | **[ECHO]((https://github.com/ranmori/ECHO))** | Audio distress detection · agentic emergency alerts · multilingual · RAVDESS-validated · [echoxgemma.live](https://echoxgemma.live) | Gemma 4 · Flutter · Firebase |
 | **GoQueue** | Production-grade background job processor — concurrent workers, exponential backoff, priority lanes | Go |
 | **[DocuMind]https://github.com/ranmori)** | RAG document intelligence — Google Drive, Dropbox, Notion, Confluence import | Next.js · Pinecone · Neon |
