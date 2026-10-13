@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/94893024?v=4" width="120" height="120" alt="Naema Mohmed Farah" style="border-radius: 8px;" />
 
-  <h1>Naema Mohmed Farah</h1>
+  <h1>Naema Mohmed</h1>
   <p><strong>Full-Stack Software Engineer</strong> · Open to Relocation</p>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naema-m-36aa01310)
