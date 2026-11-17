@@ -109,9 +109,6 @@ Merged pull requests:
 
 <div align="center">
 
-```
-  ~ built in Nairobi, shipped to Europe ~
-```
 
 <sub>Multilingual: English · Arabic · Somali · Turkish</sub>
 </div>
