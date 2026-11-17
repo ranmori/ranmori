@@ -1,19 +1,41 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/94893024?v=4" width="120" height="120" alt="Naema Mohmed Farah" style="border-radius: 8px;" />
 
-  <h1>Naema Mohmed</h1>
+```
+ _   _     _     _____  __  __     _    
+| \ | |   / \   | ____||  \/  |   / \   
+|  \| |  / _ \  |  _|  | |\/| |  / _ \  
+| |\  | / ___ \ | |___ | |  | | / ___ \ 
+|_| \_|/_/   \_\|_____||_|  |_|/_/   \_\
+```
+
   <p><strong>Software Engineer</strong> · Open to Relocation</p>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naema-m-36aa01310)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://portfolio-seven-pi-11.vercel.app)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naema-m-36aa01310/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://www.naemamohmed.com/)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/ranmori/)
+  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/naemamohmed)
   [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naemamohmed348@gmail.com)
 </div>
 
 ---
 
-Sole engineer on **Wrenta**, a multi-tenant workforce management SaaS built under contract for Square Security, serving 350+ field staff. Built the entire stack unassisted: Flutter mobile (iOS & Android), React/Next.js dashboard, Node.js REST API, real-time WebSockets, GPS geofencing, GDPR compliance, and tenant isolation — from blank repo to live product in five months.
+```
+$ whoami
+naema — full-stack engineer, ex-dentist
 
-Former clinical dentist (BDS First Class Honours, GPA 3.75). Precision and structured reasoning under pressure transfer directly into software. On my spare time, I paint 🎨
+$ cat now.txt
+shipping   : Wrenta (live, used daily by a security company)
+learning   : Go, distributed systems, applied ML
+contributing: Sentry · Dart · open-source tooling
+
+$ languages
+English · Arabic · Somali · Turkish
+```
+
+Sole engineer on **[Wrenta](https://wrenta.co/)**, a multi-tenant workforce management SaaS for European (mainly German) businesses. I built the whole stack myself: Flutter mobile app (iOS & Android), React dashboard, Node.js/TypeScript REST API, PostgreSQL, GPS geofencing, German labour-law rules, invoicing, GDPR work and tenant isolation. It is live: one security company runs its daily operation on it (40 staff, 15 sites, 361 shifts planned in the first weeks).
+
+Former clinical dentist (BDS First Class Honours, GPA 3.75). Precision and structured thinking under pressure carry straight over into software. In my spare time, I paint 🎨
 
 ---
 
@@ -21,10 +43,22 @@ Former clinical dentist (BDS First Class Honours, GPA 3.75). Precision and struc
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[Wrenta]((https://github.com/plannoo))** | Live workforce SaaS — 350+ users, GPS clock-in, shift scheduling, German labour law compliance | Node.js · TypeScript · PostgreSQL · Flutter |
-| **[ECHO]((https://github.com/ranmori/ECHO))** | Audio distress detection · agentic emergency alerts · multilingual · RAVDESS-validated · [echoxgemma.live](https://echoxgemma.live) | Gemma 4 · Flutter · Firebase |
-| **GoQueue** | Production-grade background job processor — concurrent workers, exponential backoff, priority lanes | Go |
-| **[DocuMind]https://github.com/ranmori)** | RAG document intelligence — Google Drive, Dropbox, Notion, Confluence import | Next.js · Pinecone · Neon |
+| **[Wrenta](https://wrenta.co/)** ([App Store](https://apps.apple.com/us/app/wrenta/id6795443951) · [GitHub](https://github.com/plannoo)) | Live workforce SaaS: GPS clock-in, shift scheduling, German labour-law rules, invoicing | Node.js · TypeScript · PostgreSQL · Flutter · React |
+| **[GoQueue](https://github.com/ranmori/Goqueue)** ([live metrics](https://goqueue-production-818f.up.railway.app/metrics)) | Background job processor: priority queues, retries with backoff, dead-letter queue, leader election with failover (etcd) | Go · PostgreSQL · etcd |
+| **[Shift Collision Engine](https://shift-collision-engine.onrender.com)** | Live demo of the scheduling logic: overlapping shifts, double-booking, concurrent claims | Node.js · PostgreSQL |
+| **[Guardian / ECHO](https://github.com/ranmori/guardian/tree/main)** ([site](https://echoxgemma.live) · [notebook](https://www.kaggle.com/code/naemamohmed/echo-guardian-notebook)) | Audio distress detection with emergency alerts, multilingual, validated on RAVDESS | Gemma 4 · Flutter · Firebase |
+| **[DocuMind](https://github.com/ranmori)** | Document Q&A (RAG) with import from Google Drive, Dropbox, Notion, Confluence | Next.js · Pinecone · Neon |
+| **RSNA Knee MRI (Kaggle)** | Knee abnormality detection: labelled thousands of unlabelled studies from radiology reports, then fine-tuned an image model | Python · PyTorch |
+
+---
+
+## Open source
+
+Merged pull requests:
+
+- **[getsentry/sentry #127244](https://github.com/getsentry/sentry/pull/127244)**: stopped Java error messages from having unrelated quoted words replaced during deobfuscation
+- **[dart-lang/dart-pad #4100](https://github.com/dart-lang/dart-pad/pull/4100), [#4099](https://github.com/dart-lang/dart-pad/pull/4099), [#4083](https://github.com/dart-lang/dart-pad/pull/4083)**: fixes to the DartPad preview (console focus, folder drag-and-drop, creating files in the selected folder)
+- **[morluto/rea #1941](https://github.com/morluto/rea/pull/1941)**: fixed JavaScript analysis of values passed through nested closures
 
 ---
 
@@ -74,5 +108,10 @@ Former clinical dentist (BDS First Class Honours, GPA 3.75). Precision and struc
 ---
 
 <div align="center">
-  <sub>Multilingual: English · Arabic · Somali · Turkish</sub>
+
+```
+  ~ built in Nairobi, shipped to Europe ~
+```
+
+<sub>Multilingual: English · Arabic · Somali · Turkish</sub>
 </div>
